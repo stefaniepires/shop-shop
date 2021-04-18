@@ -1,12 +1,11 @@
 import { createStore } from 'redux'
+import Reducers from './reducers';
 const store = createStore(todos, ['Use Redux'])
 
-function addTodo(text) {
+function createStore() {
   return {
-    type: 'ADD_TODO',
-    text
+   TBD
   }
 }
 
-store.dispatch(addTodo('Read the docs'))
-store.dispatch(addTodo('Read about the middleware'))
+export default createStore(reducer); 
