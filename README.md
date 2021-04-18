@@ -5,7 +5,7 @@
 Shop-Shop is a platform that uses Redux to manage global state instead of the Context API so that the website's state management is taken out of the React ecosystem.
 
 ### Application Deployment
-
+https://shop-shop-app-sp.herokuapp.com/
   
   ### Table of Contents 
   - [Installation](#installation)
