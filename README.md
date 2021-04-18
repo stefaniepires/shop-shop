@@ -28,4 +28,4 @@ https://shop-shop-app-sp.herokuapp.com/
   Email: stefaniepires91@gmail.com
   GitHub: https://github.com/stefaniepires
   
-  ![Screenshot]()
+  ![Screenshot](https://github.com/stefaniepires/shop-shop/blob/main/client/public/images/shop-shop.PNG)
